@@ -2,9 +2,11 @@
 [View Live Preview](https://dsign-tailwind-nextjs-free.vercel.app/) | [Download](https://getnextjstemplates.com/products/dsign-new-nextjs-based-landing-page-template) | [CheckOut Nextjs Templates](https://getnextjstemplates.com/)
 
 
-<a target="_blank" href="DESGY URL">
-  <img src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/a168ac25c55c1c0473d8a5fb87b6e30cf9fe5852/034c2d210be36c9e8f781fd7ee3d542c272c5c32" />
+
+<a target="_blank" href="https://getnextjstemplates.com/products/dsign-new-nextjs-based-landing-page-template">
+  <img src="https://adminmart.github.io/template_api/images/website-template/Dsign-Free-NextJs-Landing-Page-Template-with-App-Directory-Routing.jpg" />
 </a>
+
 
 <p style="text-align:center;"> This Next.js landing-page template offers a modern, ready-to-use foundation for developers looking to build high-performance websites quickly and efficiently. 
 </p>
