@@ -2,7 +2,6 @@
 [View Live Preview](https://dsign-tailwind-nextjs-free.vercel.app/) | [Download](https://getnextjstemplates.com/products/dsign-new-nextjs-based-landing-page-template) | [CheckOut Nextjs Templates](https://getnextjstemplates.com/)
 
 
-
 <a target="_blank" href="https://getnextjstemplates.com/products/dsign-new-nextjs-based-landing-page-template">
   <img src="https://adminmart.github.io/template_api/images/website-template/Dsign-Free-NextJs-Landing-Page-Template-with-App-Directory-Routing.jpg" />
 </a>
