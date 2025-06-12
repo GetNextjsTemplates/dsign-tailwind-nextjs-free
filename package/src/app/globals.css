@@ -1,0 +1,76 @@
+@import 'tailwindcss';
+@import 'slick-carousel/slick/slick.css' layer(utilities);
+@import 'slick-carousel/slick/slick-theme.css' layer(utilities);
+
+@theme {
+  --color-*: initial;
+  --color-transparent: transparent;
+  --color-current: currentColor;
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-blue: #0075ff;
+  --color-lightblue: #daebff;
+  --color-lightgrey: #aec7e4;
+  --color-navyblue: #002834;
+  --color-beach: #8ea9c1;
+  --color-circlebg: rgba(77, 213, 143, 0.25);
+  --color-darkblue: #000321;
+  --color-offwhite: rgba(255, 255, 255, 0.75);
+  --color-bordertop: rgba(196, 196, 196, 0.5);
+  --color-darkgray: #90a3b4;
+  --color-babyblue: #e2f3f9;
+  --color-grey500: #ececec;
+  --color-bluegray: #7d82a1;
+  --color-bluegrey: #7c8f9e;
+  --color-midnightblue: #183b56;
+  --color-midblue: #00276f;
+  --color-bluebg: rgba(47, 184, 227, 0.2);
+  --color-border: rgba(128, 135, 137, 0.35);
+}
+
+@layer utilities {
+  .container {
+    @apply max-w-7xl mx-auto w-full px-4;
+  }
+}
+
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentcolor);
+  }
+
+  section {
+    @apply py-10;
+  }
+
+  h1 {
+    @apply font-semibold lg:text-7xl sm:text-6xl text-5xl sm:leading-20 leading-16;
+  }
+
+  h2 {
+    @apply font-semibold lg:text-6xl sm:text-5xl text-4xl md:leading-16 sm:leading-14;
+  }
+
+  h3 {
+    @apply font-semibold text-4xl md:text-5xl
+  }
+}
+
+html {
+  scroll-behavior: smooth !important;
+}
+
+.leafbutton {
+  border-radius: 0px 30px 30px 40px;
+}
+
+.banner-image {
+  background-image: url('/images/banner/shapes.svg');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
